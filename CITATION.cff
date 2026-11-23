@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: "fictional-pancake-datasets"
-message: "If you use these datasets in your teaching, please cite this repository."
+message: "If you use these datasets, please cite it as below."
 type: dataset
 authors:
-  - family-names: "Dorok"
-    given-names: "Maximilian"
-repository-code: "https://github.com/Maximilian-Dorok/fictional-pancake-datasets"
-license: CC0-1.0
-version: 0.1.0
+- family-names: "Dorok"
+  given-names: "Maximilian"
+  orcid: "https://orcid.org/0009-0002-3895-8401"
+title: "fictional-pancake-datasets"
+version: 1.0.0
 date-released: 2026-11-23
+url: "https://github.com/Maximilian-Dorok/fictional-pancake-datasets"
